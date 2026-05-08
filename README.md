@@ -4,7 +4,7 @@
 
 * **Error al conectarse al contenedor de Docker**: Docker usa IPV6 por lo que si usamos localhost docker no se conectará.
 
-	![]<img width="540" height="184" alt="1" src="https://github.com/user-attachments/assets/b68a527f-5eb4-408c-b864-7a161cdd38ba" />
+<img width="540" height="184" alt="1" src="https://github.com/user-attachments/assets/b68a527f-5eb4-408c-b864-7a161cdd38ba" />
 
 	**Solución**: Usar  ssh alumno@127.0.0.1 \-p 2222 para forzar que use una IP IPV4.  
 	![]<img width="540" height="44" alt="3" src="https://github.com/user-attachments/assets/ed912f9e-aab2-49ad-bbc8-90a7b9821f3f" />
