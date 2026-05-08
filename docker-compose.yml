@@ -14,7 +14,7 @@ services:
       - USER_PASSWORD=sistemas_informaticos
       - PASSWORD_ACCESS=true
     ports:
-      - "2222:2222" # Mapeamos el puerto 2222 local al 2222 del contenedor
+      - "2222:2222" 
     restart: unless-stopped
 
 
